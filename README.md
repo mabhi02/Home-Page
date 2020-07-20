@@ -21,7 +21,7 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("https://poster-images.ustudio.com/IkIsMRI48yBl-Y18CS0DC%20-%20BigSpeechPanel.jpg");
+  background-image: url("front page wallpaper.jpg");
   background-attachment: fixed;
   height: 100%;
 }
