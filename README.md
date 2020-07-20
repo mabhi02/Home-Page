@@ -127,7 +127,7 @@ img {
     </div>
 
     <body>
-<img src="images/pixreal.png" class="center" width="300" height="300" >
+<img src="pixreal.png" alt="logo" class="center" width="300" height="300" >
 
 </body>
 </html>
